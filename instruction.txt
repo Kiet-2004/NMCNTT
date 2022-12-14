@@ -1,0 +1,15 @@
+Go to command prompt or powershell
+
+cd to your file location
+
+type these lines to your cmd/ps:
+
+--> python -m venv packenv
+
+--> call packenv\scripts\activate.bat
+
+--> pip install -r requirements.txt
+
+waiting for the download
+
+--> python gui.py to run the code
