@@ -12,4 +12,6 @@ type these lines to your cmd/ps:
 
 waiting for the download
 
---> python gui.py to run the code
+to run the code:
+
+--> python gui.py 
